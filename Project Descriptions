@@ -1,0 +1,84 @@
+TRI-BAND WILKINSON POWER DIVIDER USING A THREE-SECTION TRANSMISSION-LINE TRANSFORMER
+•	Designed a Wilkinson power divider using AWR to provide good matching and isolation performance at 0.9GHz, 1.17GHz and 2.43GHz.
+•	Applied a three-section transmission-line transformer to the equal-split Wilkinson power divider and verified the results.
+•	This technique was found to be useful for multiband and wideband applications.
+
+
+
+SIMULATION OF DETECTION OF STEALTH AIRCRAFT USING AIRBORNE EARLY WARNING AIRCRAFT
+•	Designed a system comprising of RADAR, satellite, transmit and receive subsystems to detect stealth aircrafts using Airborne Early Warning and Control Aircraft.
+•	Tool used for Subsystem Simulation: AWR Virtual System Simulator (VSS).
+•	Studied various performance parameters and performed Nominal and Yield analysis for each subsystem.
+
+
+
+DOPPLER DETECTION OF TARGET USING MULTIRATE DIGITAL SIGNAL PROCESSING
+•	Processed the signal in CW Radar wherein, by transmitting a stable known frequency, the velocity of the moving target is determined using Doppler frequency.
+•	Determined the Doppler frequency using Digital Processing techniques such as Decimation and Interpolation.
+
+
+
+LOW NOISE AMPLIFIER DESIGN
+•	Designed a two-stage LNA using I/P – O/P, inter-stage matching networks at 9GHz and analyzed the Noise-Gain circles for  Stability, Return loss and Insertion loss so that Noise Figure is less than 2dB and Gain is greater than 15dB.
+
+
+
+DESIGN OF MMIC FILTER
+•	Designed a MMIC Low Pass filter on GaAs with 5GHz Cutoff frequency (fc) and Rejection value greater than 25dB at 2fc.
+•	Designed a MMIC High Pass Filter on GaAs with 10GHz Cutoff frequency and Rejection value greater than 25dB at 0.5fc and analyzed using S-Parameters.
+
+
+  
+DESIGN OF MICROSTRIP FILTERS
+•	Designed a Chebyshev 0.5dB ripple low pass microstrip filter on a Rogers 5880 Duroid material and designed a Butterworth low pass microstrip filter on an FR-4 substrate using EM Simulation.
+•	Analyzed insertion loss, group delay at a Cutoff frequency of 2.5GHz. With the simulated results, Chebyshev filter has been verified to have a better group delay.
+
+
+
+IMPLEMENTATION OF A MICROSTRIP EDGE COUPLED DIRECTIONAL COUPLER 
+•	Designed a 3dB Quadrature line coupler and a 20dB edge-coupled 4-port coupler on FR-4 substrate and evaluated Return loss, Coupling and Isolation using AWR-Axiem.
+
+
+
+DESIGN OF MICROWAVE AMPLIFIER
+•	Designed a microwave amplifier using NE32584C in the range of 0.7GHz – 1.1GHz and analyzed Gain, Input Return loss, Output Return loss, Drain Voltage (Vd), Drain Current (Id), k-factor using Axiem and VNA.
+
+
+
+MODELLING A RECTANGULAR PATCH ANTENNA
+•	Simulated a single patch antenna on a Rogers substrate, resonating at 10GHz with 6dB gain.
+•	Achieved an efficiency of 92% using HFSS.
+
+
+
+KEYSTROKE BIOMETRICS FOR SECURE BANKING 
+•	Implemented 3 learning models in Python to predict impostors and genuine users, based on the CMU Keystroke Dynamics Benchmark Dataset. The most efficient model was predicted by studying the 3 Equal Error Rates.
+
+
+
+DESIGN OF 10 GB/S TRANSMITTER AND RECEIVER
+•	Designed a 10 Gbps optical fiber communication system using ITU Wavelength of 1510 nm, TI’s laser driver (ONET1101L), 1510 nm InGaAsP Laser from Lumentum and a SMF 28 single mode fiber glass from Corning.
+    
+    
+
+DESIGN AND SIMULATION OF DC MOTOR
+•	Converted AC source to DC source using a single switch device. Designed Soft Starter and Three Phase Starter using PSIM and deployed them in the model for current control.
+•	Conclusion: This approach helped with better current control than Resistive Starter.
+
+
+
+MAXIMUM POWER POINT TECHNIQUES FOR A PHOTOVOLTAIC SYSTEM
+•	Designed a Buck converter in PLECS and simulated Time and Constant temperature scenarios for three different MPPT techniques using different Solar irradiances. Reviewed and analyzed various MPPT techniques to track the efficiency and reliability of a Photovoltaic system, with more emphasis on Perturb and Observe, Incremental Conductance and Fractional Open Circuit Voltage techniques.
+•	Conclusion: This designed system serves as a very good deployable system for battery charging applications.
+
+
+
+SINGLE PHASE GRID CONNECTED PV SYSTEM USING H5 INVERTER TECHNOLOGY
+•	Designed and simulated a 4.4kW, 230V, single phase grid connected PV system with unipolar modulation. Designed and simulated Phase Locked Loop (PLL), MPPT, Current Control for H5 inverter. Evaluated power losses in the semiconductor devices at MPPT with unity power factor for different Solar Irradiance conditions. Controlled the PV inverter to operate at 0.9 leading power factor.
+
+
+
+REVIEW ON TRANSFORMER-LESS PV INVERTERS
+•	Reviewed and analyzed Transformer-less Inverters like HERIC, H5, T type NPC and H7. Designed models for different inverters in PLECS and calculated the efficiency of each system using different filter and load configurations. Simulated a converter in open loop to ensure that 230 V, 50 Hz appears across the resistive load of 9.5 Ohms. Selected semiconductor devices which are necessary for these inverters to simulate the PV inverters in Open loop and achieved the efficiency of the Transformer-less PV Inverter. 
+
+
